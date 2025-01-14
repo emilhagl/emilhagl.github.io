@@ -31,7 +31,7 @@ layout: home
        alt="Profile Image">
   <!-- Text and Title below the image -->
   <div style="flex: 2; min-width: 200px; text-align: left;">
-    <h2>A little bit about me.</h2>
+    <h2>A little bit about me and my PhD project.</h2>
     <p>I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå.</p>
   </div>
 </div>
