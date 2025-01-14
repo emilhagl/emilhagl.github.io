@@ -60,23 +60,33 @@ layout: base
 
   <!-- Display Research Articles -->
   <div class="research-articles">
-    <h2>Research Articles</h2>
+    <style>
+      .article-list {
+        list-style-type: none; /* Removes bullets */
+        padding: 0;            /* Removes padding */
+        margin: 0;             /* Removes margin */
+      }
+  </style>
+    <h2><strong>Research Articles</strong></h2>
     <ul class="article-list">
       {% for article in site.research %}
-        <li class="article-item">
-          <h3><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h3>
-          {% if article.tldr %}
-            <p><strong>TLDR:</strong> {{ article.tldr }}</p>
+        <li class="article-item" style="margin-bottom: 20px;">
+          <h3><strong>Article {{ forloop.index }}: </strong><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h3>
+          {% if article.authors %}
+            <p style="margin-bottom: 5px;"><strong>Authors:</strong> {{ article.authors }}</p>
+          {% endif %}
+          {% if article.citation %}
+            <p style="margin-bottom: 5px;"><strong>Citation/status:</strong> {{ article.citation }}</p>
           {% endif %}
           {% if article.abstract %}
-            <p><strong>Abstract:</strong> {{ article.abstract }}</p>
+            <p style="margin-bottom: 5px;"><strong>Abstract:</strong> {{ article.abstract }}</p>
           {% endif %}
           {% if article.image %}
             <div class="article-image">
               <img src="{{ article.image | relative_url }}" alt="Image for {{ article.title }}">
             </div>
           {% endif %}
-          <a href="{{ article.download_link | relative_url }}" class="download-link" target="_blank">Download PDF</a>
+          <a style="margin-bottom: 5px;" href="{{ article.download_link | relative_url }}" class="download-link" target="_blank">Download PDF</a>
         </li>
       {% endfor %}
     </ul>

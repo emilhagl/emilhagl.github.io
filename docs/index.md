@@ -31,26 +31,34 @@ layout: home
        alt="Profile Image">
   <!-- Text and Title below the image -->
   <div style="flex: 2; min-width: 200px; text-align: left;">
-    <h2>A little bit about me and my PhD project.</h2>
-    <p>I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå.</p>
+    <h2><strong>A little about me and my research.</strong></h2>
+    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. More specifially, i study... ,<br><br>
+
+    Before my PhD, I earned a degree in Industrial Engineering and Management and an M.Sc. in Computer Science and Machine Learning from KTH Royal Institute of Technology in Stockholm. <br><br>
+
+    On this website you will find a summary of my research and links to the articles that will constitute my PhD thesis.    
+     </p>
   </div>
 </div>
 
 
 
 <!-- <div style="display: flex; align-items: center; gap: 20px;"> -->
-<div style="display: flex; align-items: center; gap: 20px; flex-direction: row-reverse;">
+<!-- <div style="display: flex; align-items: center; gap: 20px; flex-direction: row-reverse;">
   <div>
     <h2>AI-Driven Contextual Advertising</h2>
     <p>I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå. I am a PhD Student from Umeå.  </p>
   </div>
-</div>
+</div> -->
 
-# Project Overview
+## **Project Overview**
 
+## **AI-Driven Contextual Advertising**
+
+Here i provide a summary of my research, research questions etc.
+
+
+<!--
 # Articles listed
-
-## A little smaller
-
 Link to an article.
-[Download the Opinion Units PDF]({{ '/assets/articles/opinion_unit.pdf' | relative_url }})
+[Download the Opinion Units PDF]({{ '/assets/articles/opinion_unit.pdf' | relative_url }}) -->

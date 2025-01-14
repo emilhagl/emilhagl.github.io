@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact me
+permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Please contact me at: [emilh@cs.umu.se](mailto:emilh@cs.umu.se)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can also find me at LinkedIn through this link: [Emil Häglund](https://www.linkedin.com/in/emil-h%C3%A4glund-0292a71a9/)

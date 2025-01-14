@@ -7,8 +7,11 @@ layout: base
     <h1>{{ page.title }}</h1>
   </header>
 
-  {% if page.tldr %}
-    <p><strong>TLDR:</strong> {{ page.tldr }}</p>
+  {% if page.authors %}
+    <p><strong>Authors:</strong> {{ page.authors }}</p>
+  {% endif %}
+  {% if article.citation %}
+    <p><strong>Citation/status:</strong> {{ article.citation }}</p>
   {% endif %}
   {% if page.abstract %}
     <p><strong>Abstract:</strong> {{ page.abstract }}</p>
