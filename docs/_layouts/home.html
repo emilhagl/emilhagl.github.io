@@ -71,7 +71,7 @@ layout: base
     <ul class="article-list">
       {% for article in site.research %}
         <li class="article-item" style="margin-bottom: 20px;">
-          <h3><strong>Article {{ forloop.index }}: </strong><a href="{{ article.url | relative_url }}">{{ article.title }}</a></h3>
+          <p style="margin-bottom: 5px;"><strong>Article {{ forloop.index }}: </strong><a href="{{ article.url | relative_url }}">{{ article.title }}</a></p>
           {% if article.authors %}
             <p style="margin-bottom: 5px;"><strong>Authors:</strong> {{ article.authors }}</p>
           {% endif %}

@@ -53,6 +53,29 @@ layout: home
 
 ## **Project Overview**
 
+The articles in my thesis fall into 3 main categories:
+
+1. **Review, conceptual, and technical commentary articles:** <br>
+   - How can/should AI from a technical perspective be applied within advertising?  
+      Examining methodologies and frameworks for effective implementation.  
+   - What consequences does AI have on business models, consumers, and societal implications?  
+      How should marketers choose strategies?
+
+2. **User experiments with human participants:** <br>
+   - How do factors such as the surrounding media context influence how online ads are perceived?
+
+3. **NLP empirical articles:** <br>
+   NLP-techniques/systems for understanding media contexts that can be leveraged by advertisers and others. Specifically:  
+      - Using LLMs to extract dynamic aspect-sentiment pairs in online reviews.  
+      - Showing its application within opinion search and for creating a broad picture of consumers' opinions on products.
+
+Together these works create insights on:  
+- (i) How AI-driven contextual advertising can be implemented technically using methods such as NLP.  
+- (ii) How media contexts influence how ads are perceived.  
+- (iii) The societal and consumer implications when AI decides who marketing messages are targeted to.
+
+
+
 ## **AI-Driven Contextual Advertising**
 
 Here i provide a summary of my research, research questions etc.
