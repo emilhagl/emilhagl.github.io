@@ -19,6 +19,10 @@ layout: home
   </div>
 </div> -->
 
+<!-- <div>
+    <p>This website provides a summary of my research and links to the articles in my PhD thesis.</p>
+</div> -->
+
 <div style="
   display: flex;
   align-items: center;
@@ -31,14 +35,14 @@ layout: home
        alt="Profile Image">
   <!-- Text and Title below the image -->
   <div style="flex: 2; min-width: 200px; text-align: left;">
-    <h2><strong>A little about me and my research.</strong></h2>
-    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. Specifically, I study the use of webpage content, rather than personal data, for ad targeting—a strategy known as contextual advertising. My thesis explores methods for understanding online content using Natural Language Processing (NLP) and the impact of online contexts on advertising effectiveness. 
+    <h2><strong>A little about me and my research</strong></h2>
+    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. Specifically, I study the use of webpage content, rather than personal data, for ad targeting—a strategy known as contextual advertising. My thesis includes  for understanding online content using Natural Language Processing (NLP) and the impact of online contexts on advertising effectiveness.
      <br><br>
     <!-- My thesis includes articles on which explores (i) how natural language processing (NLP) can be leveraged to analyze online content, (ii) examines the impact of online contexts on advertising effectiveness and (iii) the implications on consumers and advertisers of contextual versus personal advertising. <br><br> -->
 
     Before my PhD, I earned a B.Sc. in Industrial Engineering and Management and an M.Sc. in Computer Science and Machine Learning from KTH Royal Institute of Technology in Stockholm. <br><br>
 
-    On this website you will find a summary of my research and links to the articles that will constitute my PhD thesis.    
+    This website provides a summary of my research and links to the articles that constitute my PhD thesis.    
      </p>
   </div>
 </div>
@@ -57,17 +61,16 @@ layout: home
 
 ## **Project Overview**
 
-Motivated
+My research on contextual advertising is motivated by two key factors. First, initiatives by tech giants, legislation such as GDPR, and societal concern about consumer privacy and fairness are limiting the use of personal data for ad targeting, making contextual advertising a compelling alternative. Second, the abundance of analyzable online media and the advanced capabilities of modern AI has opened new possibilities for contextual advertising.
 
-Here i provide a summary of my researchetc.
+My thesis, which consists of six articles spanning natural language processing, controlled experiments with online participants, and conceptual analyses, provides insights into:
 
-Together my ads create insights on:  
-- (i) How AI-driven contextual advertising can be implemented technically using methods such as NLP.  
-- (ii) How media contexts influence how ads are perceived.  
-- (iii) The societal and consumer implications when AI decides who marketing messages are targeted to.
-- (iv) How should marketers choose advertising strategies with regards to AI, data, regulations .....
+- **(i) Techniques for understanding and grouping the topics and sentiments of online content**, with multiple marketing applications, including ad targeting.  
+- **(ii) The impact of media contexts on ad perceptions and consumer behaviours**, highlighting how different online contexts influence the effectiveness of advertisements.    
+- **(iii) The consumer and social implications of AI-driven marketing**, the consequences when AI decides who messages are targeted to based on contextual and personal data.
+- **(iv) Advice for marketers in selecting ad targeting strategies** , focusing on the use of AI, personal and contextual data, and the consideration of data availability, advertising objectives, regulations, and ethical implications.
 
-## **Research categorization, aims and questions**
+## **Article categorization & research questions**
 
 The articles in my thesis fall into 3 main categories.
 
@@ -79,8 +82,8 @@ The articles in my thesis fall into 3 main categories.
    - How does the surrounding media context influence how online ads are perceived (Article 3 & 4)?
    - Should advertisers avoid advertising alongside negative contexts? (Article 4)
 
-3. **Review, conceptual, and technical commentary articles** (Articles 5 & 6) <br>
-   - How can/should AI from a technical perspective be applied within online advertising targeting? Examining methodologies, applcations for effective and non-privacy infringing advertising (Article 5)  
+3. **Conceptual and technical commentary articles** (Articles 5 & 6) <br>
+   - How can/should AI from a technical perspective be applied within online advertising targeting? Examining methodologies, applications for effective and non-privacy infringing advertising (Article 5)  
    - What consequences does AI have on consumers, and societal implications? (Article 5)  
    - How should marketers choose advertising strategies with regards to AI, data, regulations... (Article 6)
 
