@@ -32,9 +32,11 @@ layout: home
   <!-- Text and Title below the image -->
   <div style="flex: 2; min-width: 200px; text-align: left;">
     <h2><strong>A little about me and my research.</strong></h2>
-    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. More specifially, i study... ,<br><br>
+    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. Specifically, I study the use of webpage content, rather than personal data, for ad targeting—a strategy known as contextual advertising. My thesis explores methods for understanding online content using Natural Language Processing (NLP) and the impact of online contexts on advertising effectiveness. 
+     <br><br>
+    <!-- My thesis includes articles on which explores (i) how natural language processing (NLP) can be leveraged to analyze online content, (ii) examines the impact of online contexts on advertising effectiveness and (iii) the implications on consumers and advertisers of contextual versus personal advertising. <br><br> -->
 
-    Before my PhD, I earned a degree in Industrial Engineering and Management and an M.Sc. in Computer Science and Machine Learning from KTH Royal Institute of Technology in Stockholm. <br><br>
+    Before my PhD, I earned a B.Sc. in Industrial Engineering and Management and an M.Sc. in Computer Science and Machine Learning from KTH Royal Institute of Technology in Stockholm. <br><br>
 
     On this website you will find a summary of my research and links to the articles that will constitute my PhD thesis.    
      </p>
@@ -51,35 +53,36 @@ layout: home
   </div>
 </div> -->
 
+
+
 ## **Project Overview**
 
-The articles in my thesis fall into 3 main categories:
+Motivated
 
-1. **Review, conceptual, and technical commentary articles:** <br>
-   - How can/should AI from a technical perspective be applied within advertising?  
-      Examining methodologies and frameworks for effective implementation.  
-   - What consequences does AI have on business models, consumers, and societal implications?  
-      How should marketers choose strategies?
+Here i provide a summary of my researchetc.
 
-2. **User experiments with human participants:** <br>
-   - How do factors such as the surrounding media context influence how online ads are perceived?
-
-3. **NLP empirical articles:** <br>
-   NLP-techniques/systems for understanding media contexts that can be leveraged by advertisers and others. Specifically:  
-      - Using LLMs to extract dynamic aspect-sentiment pairs in online reviews.  
-      - Showing its application within opinion search and for creating a broad picture of consumers' opinions on products.
-
-Together these works create insights on:  
+Together my ads create insights on:  
 - (i) How AI-driven contextual advertising can be implemented technically using methods such as NLP.  
 - (ii) How media contexts influence how ads are perceived.  
 - (iii) The societal and consumer implications when AI decides who marketing messages are targeted to.
+- (iv) How should marketers choose advertising strategies with regards to AI, data, regulations .....
 
+## **Research categorization, aims and questions**
 
+The articles in my thesis fall into 3 main categories.
 
-## **AI-Driven Contextual Advertising**
+1. **Natural Language Processing (NLP) work** (Articles 1 & 2) <br>
+  - NLP-techniques/systems for understanding the topics and sentiments of online content, where ad targeting is one application. Specifically: I use LLMs to extract fully contextualized aspect-sentiment pairs, dubbed \emph{opinion unbits} in online reviews (Article 1 & 2).  
+  - Demonstrate the performance of opinion units as a chunking strategy in opinion search (article 1) and topic modelling (Article 2). Topic modelling of opinions can provide picture of consumers' opinions and regression of topics unto business metrics and outcomes  (Article 2).
 
-Here i provide a summary of my research, research questions etc.
+2. **Controlled experiments with online participants** (Articles 3 & 4) <br>
+   - How does the surrounding media context influence how online ads are perceived (Article 3 & 4)?
+   - Should advertisers avoid advertising alongside negative contexts? (Article 4)
 
+3. **Review, conceptual, and technical commentary articles** (Articles 5 & 6) <br>
+   - How can/should AI from a technical perspective be applied within online advertising targeting? Examining methodologies, applcations for effective and non-privacy infringing advertising (Article 5)  
+   - What consequences does AI have on consumers, and societal implications? (Article 5)  
+   - How should marketers choose advertising strategies with regards to AI, data, regulations... (Article 6)
 
 <!--
 # Articles listed
