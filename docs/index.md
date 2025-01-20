@@ -67,25 +67,29 @@ My thesis, which consists of six articles spanning natural language processing, 
 
 - **(i) Techniques for understanding and grouping the topics and sentiments of online content**, with multiple marketing applications, including ad targeting.  
 - **(ii) The impact of media contexts on ad perceptions and consumer behaviours**, highlighting how different online contexts influence the effectiveness of advertisements.    
-- **(iii) The consumer and social implications of AI-driven marketing**, the consequences when AI decides who messages are targeted to based on contextual and personal data.
-- **(iv) Advice for marketers in selecting ad targeting strategies** , focusing on the use of AI, personal and contextual data, and the consideration of data availability, advertising objectives, regulations, and ethical implications.
+- **(iii) The consumer and social implications of AI-driven ad targeting**, the consequences when AI decides who messages are targeted to based on contextual and personal data.
+- **(iv) Advice for marketers in selecting ad targeting strategies** , focusing on the use of AI, personal and contextual data, under the consideration of data availability, advertising objectives, regulations, and ethical aspects.
 
-## **Article categorization & research questions**
+## **Article Categorization and Research Objectives**
 
-The articles in my thesis fall into 3 main categories.
+The six articles in my thesis can be grouped into three research domains. Below is an overview of the focus of each domain, along with the respective research objectives of each article.
 
-1. **Natural Language Processing (NLP) work** (Articles 1 & 2) <br>
-  - NLP-techniques/systems for understanding the topics and sentiments of online content, where ad targeting is one application. Specifically: I use LLMs to extract fully contextualized aspect-sentiment pairs, dubbed \emph{opinion unbits} in online reviews (Article 1 & 2).  
-  - Demonstrate the performance of opinion units as a chunking strategy in opinion search (article 1) and topic modelling (Article 2). Topic modelling of opinions can provide picture of consumers' opinions and regression of topics unto business metrics and outcomes  (Article 2).
+1. **Natural Language Processing for Analyzing Opinionated Content** (Articles 1 & 2) <br>
+  - Techniques for analysing and structuring the topics and sentiments within online content, where ad targeting is one application. Specifically, I use LLMs to extract fully contextualized aspect-sentiment pairs, termed *opinion units*, from online reviews (Article 1 & 2).  
+  - I demonstrate the performance of opinion units as a chunking strategy in opinion search (Article 1) and topic modeling (Article 2). Topic modeling of opinion units generated from product reviews, offers a comprehensive understanding of customer discussions, capturing both the topics they are focused on and the strength of their sentiments. By correlating these topics with business metrics such as star ratings, valuable insights can be uncovered regarding how specific concerns influence business outcomes (Article 2).
+  <!-- The use of opinion units overcomes challenges found in previous work, particularly those related to separating individual opinions within reviews and enhancing the interpretability of which sections of the raw text influenced the clustering or regression result. -->
+  <br><br>
 
 2. **Controlled experiments with online participants** (Articles 3 & 4) <br>
-   - How does the surrounding media context influence how online ads are perceived (Article 3 & 4)?
+   - How does the online media context influence the effectiveness of ads? (Article 3 & 4)
+   - How do the underlying mechanisms of contextualized and personalized advertising influence consumption intentions and the memorability of ads (Article 3)?
    - Should advertisers avoid advertising alongside negative contexts? (Article 4)
+   <br><br>  
 
-3. **Conceptual and technical commentary articles** (Articles 5 & 6) <br>
-   - How can/should AI from a technical perspective be applied within online advertising targeting? Examining methodologies, applications for effective and non-privacy infringing advertising (Article 5)  
-   - What consequences does AI have on consumers, and societal implications? (Article 5)  
-   - How should marketers choose advertising strategies with regards to AI, data, regulations... (Article 6)
+3. **Conceptual and Technical Commentary** (Articles 5 & 6) <br>
+   - How can AI from a technical perspective be applied within contextual advertising? We review relevant work and provide technical insights around effective and non-privacy infringing ad targeting. (Article 5)  
+   - What are the consumer and social implications of AI-driven advertising? We examine aspects such as AI-transparency, self-optimization, and the balance between using personal and contextual data for targeting. (Article 5 & 6)  
+   - How can marketers determine the optimal level of AI automation and the balance between personal and contextual data for their ad campaign? Considerations include data availability, advertising objectives, regulatory compliance, and ethical considerations. (Article 6)
 
 <!--
 # Articles listed
