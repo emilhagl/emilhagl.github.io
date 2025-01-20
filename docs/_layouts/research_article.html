@@ -21,8 +21,9 @@ layout: base
       <img src="{{ page.image | relative_url }}" alt="Image for {{ page.title }}">
     </div>
   {% endif %}
-  <a href="{{ page.download_link | relative_url }}" target="_blank">Download PDF</a>
-
+  {% if page.download_link %}
+    <a href="{{ page.download_link | relative_url }}" target="_blank">Download PDF</a>
+  {% endif %}
   <div>
     {{ content }}
   </div>

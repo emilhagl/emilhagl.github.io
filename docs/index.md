@@ -36,7 +36,9 @@ layout: home
   <!-- Text and Title below the image -->
   <div style="flex: 2; min-width: 200px; text-align: left;">
     <h2><strong>A little about me and my research</strong></h2>
-    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing. Specifically, I study the use of webpage content, rather than personal data, for ad targeting—a strategy known as contextual advertising. My thesis includes  for understanding online content using Natural Language Processing (NLP) and the impact of online contexts on advertising effectiveness.
+    <p> I am a PhD Student in Computer Science at Umeå University in Sweden. My research concerns the application of AI to marketing.
+
+    Specifically, I study the use of webpage content, rather than personal data, for ad targeting—a strategy known as contextual advertising. My thesis presents novel approaches for analyzing opinionated text using Natural Language Processing and explores the influence of online contexts on advertising effectiveness.
      <br><br>
     <!-- My thesis includes articles on which explores (i) how natural language processing (NLP) can be leveraged to analyze online content, (ii) examines the impact of online contexts on advertising effectiveness and (iii) the implications on consumers and advertisers of contextual versus personal advertising. <br><br> -->
 

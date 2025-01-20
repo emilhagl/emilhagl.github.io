@@ -1,13 +1,11 @@
 ---
 layout: research_article
-title: "Clustering of Opinion Units"
+title: "Hear What Your Customers Are Saying: Business Insights from Product Reviews through Topic Modeling of Opinion Units"
 authors: "Emil Häglund & Johanna Björklund"
-citation: "Under progress. To be submitted to ACL Industry Track 2025 in late February"
-abstract: "Cluster opinions in online reviews and predict star ratings based on topics. Provides answers on what topics consumers are discussing, the sentiments of these dicsussions and the impact of an overall satisfaction metrics- the star rating of the review.
+citation: "Article is in progress and not complete. To be submitted to ACL Industry Track 2025."
+abstract: "
 
-Mutliple previous works in marketing have used clustering techniques, alternatively available few-topic metadata to find out how topics in reviews and correlate to star rating.
-
-Topic modeling of opinion units generated from product reviews, offers a comprehensive understanding of customer discussions, capturing both the topics they are focused on and the strength of their sentiments. By correlating these topics with business metrics such as star ratings, valuable insights can be uncovered regarding how specific concerns influence business outcomes. The use of opinion units overcomes challenges found in previous work, particularly those related to separating individual opinions within reviews and enhancing the interpretability of which sections of the raw text influenced the clustering or regression result.
+We propose a novel approach to extracting insights from customer reviews by integrating topic modeling with a preprocessing stage that employs large language models (LLMs). This preprocessing step breaks down reviews into opinion units— distinct opinions contetexualized by relevant text excerpts and sentiment ratings. Topic modeling using opinion units provides a comprehensive understanding of customer opinions, capturing the topics consumers are satisfied or concerned with and the intensity of their sentiments. By correlating these topics with business metrics, such as star ratings of reviews, we can gain insights on how specific customer concerns impact business outcomes. We compare supervised and semi-supervised topic modeling techniques for clustering opinion units and evaluate their performance, discussing their strengths, limitations, and appropriate use cases. The use of opinion units addresses key challenges in prior work, particularly by isolating individual opinions within reviews. Our approach also enhances the interpretability of results, making it clearer which sections of raw text influenced clustering or regression outcomes.
 "
 #download_link: ""
 #image: "/assets/images/article-1-image.jpg"

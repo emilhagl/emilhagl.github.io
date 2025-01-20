@@ -86,7 +86,9 @@ layout: base
               <img src="{{ article.image | relative_url }}" alt="Image for {{ article.title }}">
             </div>
           {% endif %}
-          <a style="margin-bottom: 5px;" href="{{ article.download_link | relative_url }}" class="download-link" target="_blank">Download PDF</a>
+          {% if article.download_link %}
+            <a style="margin-bottom: 5px;" href="{{ article.download_link | relative_url }}" class="download-link" target="_blank">Download PDF</a>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
