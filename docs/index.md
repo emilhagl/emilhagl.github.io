@@ -61,7 +61,15 @@ layout: home
 
 
 
-## **Project Overview**
+## **Project Overview: AI for Marketing & Contextual Advertising**
+
+<!-- Artificial and Contextual Intelligence for Marketing -->
+<!-- AI-Driven Context Analysis for Marketing and Ad-targeting
+## **AI-enabled Marketing & Contextual Advertising**
+AI and Contextual Analysis for Effective Marketing and Ad Targeting
+AI Meets Contextual Marketing:
+AI-driven contextual advertising
+The Contextual Edge: AI in Marketing and Ad-targeting -->
 
 My research on contextual advertising is motivated by two key factors. First, initiatives by tech giants, legislation such as GDPR, and societal concern about consumer privacy and fairness are limiting the use of personal data for ad targeting, making contextual advertising a compelling alternative. Second, the abundance of analyzable online media and the advanced capabilities of modern AI has opened new possibilities for contextual advertising.
 
@@ -70,7 +78,7 @@ My thesis, which consists of six articles spanning natural language processing, 
 - **(i) Techniques for understanding and grouping the topics and sentiments of online content**, with multiple marketing applications, including ad targeting.  
 - **(ii) The impact of media contexts on ad perceptions and consumer behaviours**, highlighting how different online contexts influence the effectiveness of advertisements.    
 - **(iii) The consumer and social implications of AI-driven ad targeting**, the consequences when AI decides who messages are targeted to based on contextual and personal data.
-- **(iv) Advice for marketers in selecting ad targeting strategies** , focusing on the use of AI, personal and contextual data, under the consideration of data availability, advertising objectives, regulations, and ethical aspects.
+- **(iv) Advice for marketers in selecting ad targeting strategies**, focusing on the use of AI, personal and contextual data, under the consideration of data availability, advertising objectives, regulations, and ethical aspects.
 
 ## **Article Categorization and Research Objectives**
 
@@ -84,14 +92,14 @@ The six articles in my thesis can be grouped into three research domains. Below 
 
 2. **Controlled experiments with online participants** (Articles 3 & 4) <br>
    - How does the online media context influence the effectiveness of ads? (Article 3 & 4)
-   - How do the underlying mechanisms of contextualized and personalized advertising influence consumption intentions and the memorability of ads (Article 3)?
+   - How do the underlying mechanisms of contextualized and personalized advertising influence consumption intentions and the memorability of ads? (Article 3)
    - Should advertisers avoid advertising alongside negative contexts? (Article 4)
    <br><br>  
 
 3. **Conceptual and technical commentary articles** (Articles 5 & 6) <br>
-   - How can AI from a technical perspective be applied within contextual advertising? We review relevant work and provide technical insights around effective and non-privacy infringing ad targeting. (Article 5)  
-   - What are the consumer and social implications of AI-driven advertising? We examine aspects such as AI-transparency, self-optimization, and the balance between using personal and contextual data for targeting. (Article 5 & 6)  
-   - How can marketers determine the optimal level of AI automation and the balance between personal and contextual data for their ad campaign? Considerations include data availability, advertising objectives, regulatory compliance, and ethical considerations. (Article 6)
+   - How can AI from a technical perspective be applied within contextual advertising? We review relevant work and provide technical insights around effective and non-privacy infringing ad targeting (Article 5).  
+   - What are the consumer and social implications of AI-driven advertising? We examine aspects such as AI-transparency, self-optimization, and the balance between using personal and contextual data for targeting (Article 5 & 6).  
+   - How can marketers determine the optimal level of AI automation and the balance between personal and contextual data for their ad campaign? Considerations include data availability, advertising objectives, regulatory compliance, and ethical considerations (Article 6).
 
 <!--
 # Articles listed
