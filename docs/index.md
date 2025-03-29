@@ -61,7 +61,7 @@ layout: home
 
 
 
-## **Project Overview: AI in Marketing & Contextual Advertising**
+## **Project Overview: Contextual Intelligence: Leveraging AI for Targeted Marketing**
 
 <!-- Artificial and Contextual Intelligence for Marketing -->
 <!-- AI-Driven Context Analysis for Marketing and Ad-targeting
